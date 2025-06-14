@@ -28,18 +28,22 @@
 
 ## 💬 Обратная связь
 Каждый может:  
-- **Задать вопрос** по решению.  
-- **Предложить улучшение** (оптимизацию, лучший стиль кода).  
-- **Добавить альтернативное решение**.  
+- **Задать вопрос** по решению  
+- **Предложить улучшение** (оптимизацию, лучший стиль кода)  
+- **Добавить альтернативное решение**  
 
-Оставляйте комментарии в **Issues** или **Pull Requests**!  
+Свяжитесь со мной:  
+✉️ **Telegram:** [t.me/JustSaiddd](https://t.me/JustSaiddd)  
+💼 **LinkedIn:** [linkedin.com/in/said-magomedow](https://www.linkedin.com/in/said-magomedow/)  
+
+Также можно оставить комментарий в **Issues** или **Pull Requests**!  
 
 ---
 
 ## 🚀 Как использовать
-1. **Найти задачу** по теме/сложности.  
-2. **Изучить код** и объяснение.  
-3. **Запустить** решение локально.  
+1. **Найти задачу** по теме/сложности  
+2. **Изучить код** и объяснение  
+3. **Запустить** решение локально  
 
 ---
 
@@ -70,7 +74,7 @@ Each solution includes explanation, code, and complexity analysis.
 │   └── medium
 │       └── merge-sorted-array.py
 │
-├── /linked-lists
+├── /linked-list
 │   ├── easy
 │   │   └── reverse-linked-list.py
 │   └── hard
@@ -83,18 +87,22 @@ Each solution includes explanation, code, and complexity analysis.
 
 ## 💬 Feedback
 Everyone can:  
-- **Ask questions** about solutions.  
-- **Suggest improvements** (optimizations, better code style).  
-- **Add alternative solutions**.  
+- **Ask questions** about solutions  
+- **Suggest improvements** (optimizations, better code style)  
+- **Add alternative solutions**  
 
-Leave comments in **Issues** or **Pull Requests**!  
+Contact me:  
+✉️ **Telegram:** [t.me/JustSaiddd](https://t.me/JustSaiddd)  
+💼 **LinkedIn:** [linkedin.com/in/said-magomedow](https://www.linkedin.com/in/said-magomedow/)  
+
+You can also leave comments in **Issues** or **Pull Requests**!  
 
 ---
 
 ## 🚀 How to Use
-1. **Find a problem** by topic/difficulty.  
-2. **Explore the code** and explanation.  
-3. **Run** the solution locally.  
+1. **Find a problem** by topic/difficulty  
+2. **Explore the code** and explanation  
+3. **Run** the solution locally  
 
 ---
 
