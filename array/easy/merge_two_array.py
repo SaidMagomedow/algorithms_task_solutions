@@ -30,4 +30,3 @@ class Solution:
             nums1[l_s_i] = nums2[l_n2_i]
             l_n2_i -= 1
             l_s_i -= 1
-
